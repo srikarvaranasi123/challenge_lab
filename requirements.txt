@@ -1,0 +1,6 @@
+tweepy
+numpy
+scikit-learn
+pandas
+google
+
